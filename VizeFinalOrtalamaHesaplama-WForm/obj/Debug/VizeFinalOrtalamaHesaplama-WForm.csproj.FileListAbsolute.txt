@@ -1,0 +1,9 @@
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\bin\Debug\VizeFinalOrtalamaHesaplama-WForm.exe.config
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\bin\Debug\VizeFinalOrtalamaHesaplama-WForm.exe
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\bin\Debug\VizeFinalOrtalamaHesaplama-WForm.pdb
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama-WForm.csprojResolveAssemblyReference.cache
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama_WForm.Form1.resources
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama_WForm.Properties.Resources.resources
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama-WForm.csproj.GenerateResource.Cache
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama-WForm.exe
+c:\users\deniz\documents\visual studio 2015\Projects\VizeFinalOrtalamaHesaplama-WForm\VizeFinalOrtalamaHesaplama-WForm\obj\Debug\VizeFinalOrtalamaHesaplama-WForm.pdb
